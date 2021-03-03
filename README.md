@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+https://breakingbadquotesapi.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60498171-fbeb-44b1-968a-e301b7c67b10/deploy-status)](https://app.netlify.com/sites/compassionate-leavitt-c1879b/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
